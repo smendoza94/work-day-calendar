@@ -1,26 +1,18 @@
-# Work Day Scheduler Starter Code
+# Work Day Scheduler
 
-## Prompt
-AS AN employee with a busy schedule
-I WANT to add important events to a daily planner
-SO THAT I can manage my time effectively
+Use this site to schedule your day by the hour. 
+The planner displays the current day at the top of the calendar.
+Scroll down to see blocks with standard business hours.
+Each time block is color-coded to indicate whether it is in the past (grey), present (red), or future (green).
+Click into a time block to enter an event or task.
 
-GIVEN I am using a daily planner to create a schedule
+IMPORTANT!: Click the save button on that time block to save the event.
 
-[done] WHEN I open the planner
-THEN the current day is displayed at the top of the calendar 
-
-[done] WHEN I scroll down
-THEN I am presented with time blocks for standard business hours
-
-[done] WHEN I view the time blocks for that day
-THEN each time block is color-coded to indicate whether it is in the past, present, or future
-
-[done] WHEN I click into a time block
-THEN I can enter an event
-
-WHEN I click the save button for that time block
-THEN the text for that event is saved in local storage
-
-WHEN I refresh the page
-THEN the saved events persist
+## Third Party API
+### Javascript
+JQuery
+Moment JS
+### CSS
+Bootstrap
+Open Iconic
+Google Fonts
