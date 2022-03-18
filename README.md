@@ -1,4 +1,5 @@
 # Work Day Scheduler
+live website: https://smendoza94.github.io/work-day-calendar/
 
 Use this site to schedule your day by the hour. 
 The planner displays the current day at the top of the calendar.
